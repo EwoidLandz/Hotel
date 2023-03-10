@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+}
+.header{
+	height: 100px;
+	background:antiquewhite;
+}
+.header-logo{
+	float: left;
+	padding: 10px 100px;
+}
+.header-list ul{
+	float: right;
+}
+.header-list ul li{
+	list-style: none;
+	padding: 25px 50px;
+	float: left;
+}
+.header-list ul li a{
+	text-decoration: none;
+	color: black;
+}
+.login{
+	padding: 0px 50px;
+	margin-right: -50px;
+	margin-left: -60px;
+/*	float: right;*/
+}
+.main{
+	height: 800px;
+}
+.form ul{
+	float: right;
+}
+.form ul li{
+	float: left;
+	list-style: none;
+	margin-left:50px;
+	margin-right: 75px;
+}
+.submit:hover{
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.footer{
+	background: darkslateblue;
+	height: 150px;
+}
+.footer-text h1{
+	text-align: center;
+}
+.content-item{
+	float: left;
+	padding: 0px 9px;
+}
+.contents-item{
+	float: left;
+	padding: 0px 7px;
+}
+.taman{
+	padding: 0px 10em;
+}
+.gym{
+	padding: 0px 12em;
+}
+.kolam{
+	padding: 0px 10em;
+}
+.laundry{
+	padding: 0px 12em;
+}

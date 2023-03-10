@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+.header{
+	height: 50px;
+}
+.header ul li{
+	list-style: none;
+}
+.date{
+	float: left;
+}
+.search{
+	float: right;
+	padding: 0px 50px;
+}
+.table{
+	margin-left:24em;
+}
